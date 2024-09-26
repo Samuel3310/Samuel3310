@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Samuel
-- 👀 I’m a front end developer with over 4 years experience
+- 👀 I’m a front end developer 
 - 💞️ I’m looking to collaborate with people of the same vision and passion 
 
 - 📫 How to reach me
