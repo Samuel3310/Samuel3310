@@ -4,7 +4,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.png" />
     <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.png" />
-    <img alt="YOUR_NAME — banner" src="assets/hero-light.png" width="100%" />
+    
   </picture>
 
   <h1>Hi, I’m Samuel 👋</h1>
@@ -50,6 +50,7 @@ Clear docs and guides that unblock engineers and users.
 </table>
 
 ---
+![samuel3310's Streak](https://github-readme-streak-stats.herokuapp.com/?user=samuel3310&theme=vue-dark&hide_border=false)
 
 
 
