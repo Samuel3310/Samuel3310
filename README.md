@@ -51,7 +51,10 @@ Clear docs and guides that unblock engineers and users.
 
 ---
 ![samuel3310's Streak](https://github-readme-streak-stats.herokuapp.com/?user=samuel3310&theme=vue-dark&hide_border=false)
-
+---
+![samuel3310's Stats](https://github-readme-stats.vercel.app/api?username=samuel3310&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+---
+![samuel3310's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel3310&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 
 <!-- TECH STACK ICONS -->
